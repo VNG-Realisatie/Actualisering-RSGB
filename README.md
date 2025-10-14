@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Kennis Centrum Architectuur | Johan Boer, Ilias Chekri, Robert Melskens |
+| Kennis Centrum Architectuur | Johan Boer, Ilias Cheqri, Robert Melskens |
 <hr/>
 
 # ...
