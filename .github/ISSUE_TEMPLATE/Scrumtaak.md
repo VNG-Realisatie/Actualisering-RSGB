@@ -1,8 +1,8 @@
 ---
-name: 'Scrumtaak'
+name: Scrumtaak
 about: Scrumtaak (bijvoorbeeld demo etc.)
 title: ''
-labels: 'scrumtaak'
+labels: ''
 assignees: ''
 
 ---
