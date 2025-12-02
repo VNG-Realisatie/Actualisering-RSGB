@@ -50,8 +50,9 @@ Een opsomming van onderwerpen die daarvoor uitgewerkt moeten worden:
 - Verschillen-analyse RSGB - Gegevencatalogus IMGEO/BGT
 - Verschillen-analyse RSGB - IMWOZ
 - Voorstel om het RSGB te reduceren tot de "gemeente-eigen" gegevens en de gegevens uit de basisregistraties ook op te halen uit de basisregistraties (Grens-objecten)
-- Herstructureringsvoorstellen om hergebruik van objecttypen uit de basisregistraties te facilitere
-- Herstructureringswensen om complexiteit binnen het RSGB te reduceren. 
+- Herstructurering om hergebruik van objecttypen uit de basisregistraties te facilitere
+- Herstructurering complexiteit binnen het RSGB te reduceren.
+- Herstructurering om bestaande functionaliteits-issues te elimineren.  
 - . . . 
 
 
