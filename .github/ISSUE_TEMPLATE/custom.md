@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: Template om de Issues rondom de modernisering RSGB gelijkvormig te maken
+about: Template om de Issues rondom de actualisering RSGB gelijkvormig te maken
 title: ''
 labels: ''
 assignees: ''
