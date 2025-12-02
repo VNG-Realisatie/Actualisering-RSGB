@@ -17,9 +17,9 @@ Het primaire doel van dit traject is om ‘in control’ te komen op het beheer 
 - Informatiemodellen in overeenstemming brengen met de actuele informatiemodellen van de basisregistraties
 
 ## Aanpak "korte termijn":
-Fase 1 – Verschillenanalyse voor de korte termijn doelstelling
+
 Per stap gaan we toewijzen wie deze uitvoert. 
-We starten met een analyse van verschillen:
+
 - Stap 1: Een verschillenanalyse opleveren tussen LO-BRP en RSGB.  
   - Dit levert een lijst aanpassingsvoorstellen op de RSGB op.
 - Stap 2: Een verschillen analyse uitvoeren tussen StUF-BG(met name aanvullendde elementen) en RSGB met het resultaat van stap 1. 
@@ -36,7 +36,6 @@ Het verwerken van de aanpassingsvoorstellen uit Stap 1 en Stap 2 zullen in een s
 - Stap 5 : Analyse van verschillen tussen ImZTC en de ZGW API’s
   - Dit levert heroverwegingen/aanpassingsvoorstellen op het ImZTC op en/of aanpassingen aan de ZGW-API’s                
 
- 
 De aanpassingsvoorstellen uit stap 3, stap 4 4n stap 5 zullen vervolgens, in samenspraak met de ZGW-community, moeten worden verwerkt en de verwerkingsbeslissingen moeten worden gedocumenteerd. 
 Het verwerken van de aanpassingsvoorstellen uit stap 3, stap 4 en stap 5 zullen in een stabiele versie van het RGBZ resulteren. Eventueel zullen er aanpassingen aan de ZWG-API's doorgevoerd worden. 
 
