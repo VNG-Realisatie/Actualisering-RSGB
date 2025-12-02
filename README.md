@@ -8,7 +8,7 @@
 | Kennis Centrum Architectuur | Johan Boer, Ilias Cheqri, Robert Melskens |
 <hr/>
 
-# Beheer van RSGB onder controle krijgen
+# Actualiseren RSGB
 
 ## Doelstelling korte termijn
 Het primaire doel van dit traject is om ‘in control’ te komen op het beheer van de informatiemodellen. Dit realiseren we door:
