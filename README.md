@@ -20,28 +20,33 @@ Het primaire doel van dit traject is om ‘in control’ te komen op het beheer 
 
 Per stap gaan we toewijzen wie deze uitvoert. 
 
-- Stap 1: Een verschillenanalyse opleveren tussen LO-BRP en RSGB.  
+- Stap 1: Het RSGB 2.02 "as is" aanpassen aan de modellerings-vereisten van MIM 1.1 (We onderzoeken of MIM 1.2 een optie is. Met name vanuit ondersteuning middels imvertor)
+  - Dit levert een RSGB op dat opgesteld is conform het Metamodel Informatie Modellering 1.1
+  - Zo min mogelijk inhoudelijke aanpassingen. Alleen die aanpassing die nodig zijn om aan de eisen van MIM 1.1. te voldoen.
+  - Aanpassingen worden gedocumenteerd en voorgelegd aan de community ter bevesting van gemaakte keuzes. 
+- Stap 2: Een verschillenanalyse opleveren tussen LO-BRP en RSGB.  
   - Dit levert een lijst aanpassingsvoorstellen op de RSGB op.
-- Stap 2: Een verschillen analyse uitvoeren tussen StUF-BG(met name aanvullendde elementen) en RSGB met het resultaat van stap 1. 
+- Stap 3: Een verschillen analyse uitvoeren tussen StUF-BG(met name aanvullendde elementen) en RSGB met het resultaat van stap 2. 
   - Dit levert mogelijk aanpassingvoorstellen voor het RSGB op en/of patches op StUF-BG.
 
-De aanpassingsvoorstellen uit stap 1 en stap 2 zullen vervolgens, in samenspraak met een community, moeten worden verwerkt en de verwerkingsbeslissingen moeten worden gedocumenteerd. 
-De community die hierbij betrokken wordt zal nog moeten worden opgebouwd. In ieder geval wordt er vanuit de GGM community veel interesse getoond
-Het verwerken van de aanpassingsvoorstellen uit Stap 1 en Stap 2 zullen in een stabiele versie van het RSGB en een daarop gepatchte versie van StUF-BG resulteren.
+De aanpassingsvoorstellen uit stap 1, 2 en 3 zullen vervolgens, in samenspraak met een community, moeten worden verwerkt en de verwerkingsbeslissingen moeten worden gedocumenteerd. 
+De community die hierbij betrokken wordt zal nog moeten worden opgebouwd. In ieder geval wordt er vanuit de GGM community veel interesse getoond om bijdragen t eleveren.
+Het verwerken van de aanpassingsvoorstellen uit Stap 1, 2 en 3 zullen in een stabiele versie van het RSGB resuleren die is te mappen op de meest recente patch van StUF-BG. 
 
-- Stap 3:  Een verschillen-analyse maken tussen De stabiele versie van RSGB die in stap 2 is opgeleverd met de laatst vastgestelde versie van het RGBZ.
+- Stap 4:  Een verschillen-analyse maken tussen De stabiele versie van RSGB die in stap 3 is opgeleverd met de laatst vastgestelde versie van het RGBZ.
   - Levert een lijst aanpassingsvoorstellen op het RGBZ op.
-- Stap 4: Een verschillenanalyse tussen het resultaat van stap 3 met de ZGW-API’s. (Hierbij kan de concept versie RGBZ gebruikt worden die voor de ZGW-API’s is gemaakt.)
+- Stap 5: Een verschillenanalyse tussen het resultaat van stap 4 met de ZGW-API’s. (Hierbij kan de concept versie RGBZ gebruikt worden die voor de ZGW-API’s is gemaakt.)
   - Levert aanpassingsvoorstellen voor het RGBZ op en/of aanpassingsvoorstellen / patches op de ZGW-API’s
-- Stap 5 : Analyse van verschillen tussen ImZTC en de ZGW API’s
+- Stap 6 : Analyse van verschillen tussen ImZTC en de ZGW API’s
   - Dit levert heroverwegingen/aanpassingsvoorstellen op het ImZTC op en/of aanpassingen aan de ZGW-API’s                
 
-De aanpassingsvoorstellen uit stap 3, stap 4 4n stap 5 zullen vervolgens, in samenspraak met de ZGW-community, moeten worden verwerkt en de verwerkingsbeslissingen moeten worden gedocumenteerd. 
-Het verwerken van de aanpassingsvoorstellen uit stap 3, stap 4 en stap 5 zullen in een stabiele versie van het RGBZ resulteren. Eventueel zullen er aanpassingen aan de ZWG-API's doorgevoerd worden. 
+De aanpassingsvoorstellen uit stap 4, 5, en 6 zullen vervolgens, in samenspraak met de ZGW-community, moeten worden verwerkt en de verwerkingsbeslissingen moeten worden gedocumenteerd. 
+Het verwerken van de aanpassingsvoorstellen uit stap 3, 4 en 5 zullen in een stabiele versie van het RGBZ resulteren. Eventueel zullen er aanpassingen aan de ZWG-API's doorgevoerd worden. 
+Hierbij moet ook in acht genomen dat er in het kader van het project ZGW-next aan een semantisch model voor inzage van zaak-gerelateerde gegevens wordt gewerkt.
 
 ## Aanpak lange termijn
 
-Voor de lange termijn moet er geïnventariseerd op welke wijze het RSGB zich gaat verhouden tot informatiemodellen en catalogi van basisregistratie. Die keuzes worden ook gevoed door ontwikkelingen rondom het federatief datastelsel en kunnen worden gebaseerd op inzichten die zijn opgedaan bij de totstandkomeing van de API Referentie Architectuur (project Asterix). 
+Voor de lange termijn moet er geïnventariseerd op welke wijze het RSGB zich gaat verhouden tot informatiemodellen en catalogi van basisregistratie. Die keuzes worden ook gevoed door ontwikkelingen rondom het federatief datastelsel en kunnen worden gebaseerd op inzichten die zijn opgedaan bij de totstandkoming van de API Referentie Architectuur (project Asterix). 
 Een opsomming van onderwerpen die daarvoor uitgewerkt moeten worden:
 
 - Verschillen-analyse RSGB - IMKAD
