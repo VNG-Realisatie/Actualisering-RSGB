@@ -5,19 +5,15 @@
 Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde incrementele creatieproces. Daarbij maken we gebruik van het daarvoor ingerichte [Kanban bord](https://github.com/orgs/VNG-Realisatie/projects/24) met de in de illustratie genoemde kolommen:
 
 1.	Todo
-2.	In discussie (voor volgende sessie)
+2.	In discussie (voor komende sessie)
 3.	Consensus bereikt
-4.	Review verwerking in RSGB
-5.	Done
-<!-- 
-![GitHub Proces](https://github.com/user-attachments/assets/cd2a7eda-0981-48b4-8471-67d16d90a3e7)
+4.	Verwerk in RSGB
+5.	Review verwerking in RSGB
+6.	Done
 
-Daar waar een blok een vervolg naar zowel een blauwe als een oranje route kent lopen deze parallel aan elkaar. Bijv. na het afronden van een issue dat in _"In progress 'Uitleg'"_ staat wordt de oranje route naar _"Is PR nodig?"_ EN de blauwe route naar _"Is het een Begrippenmodel issue?"_ doorlopen.
-Is een PR noodzakelijk dan heb je dus 2 items: 
-1. het originele issue en
-2. de PR. 
+Hier hoort het volgende proces bij.
 
-Alleen PR’s komen in de 5e Kanban kolom ( _"In review (PR’s)"_ ), en er kunnen meerdere PR’s per issue zijn (elke keer als in een fase via het oranje pad de vraag _“Is PR nodig?”_ bevestigend wordt beantwoord). Per PR kunnen meerdere isues worden opgelost. -->
+<img width="1038" height="1117" alt="werkproces" src="https://github.com/user-attachments/assets/c1593c52-381c-48a9-b79e-e302944d35a8" />
 
 ## Uitgebreide review
 
