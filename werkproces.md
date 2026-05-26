@@ -13,7 +13,7 @@ Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde inc
 
 Hier hoort het volgende proces bij.
 
-<img width="1038" height="1117" alt="werkproces" src="https://github.com/user-attachments/assets/c1593c52-381c-48a9-b79e-e302944d35a8" />
+<img width="900" alt="werkproces" src="https://github.com/user-attachments/assets/c7b8d205-5ef8-47de-ab48-ae02e922e21d" />
 
 ## Uitgebreide review
 
