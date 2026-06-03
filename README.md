@@ -10,6 +10,11 @@ Voor het project "Actualiseren informatiemodellen" is het primaire doel er voor 
 
 Dit pakken we volgordelijk op. Deze repository gaat over het actualiseren van het RSGB. Dit wordt als eerste uitgevoerd en zodra de beschikbaarheid van resources het toelaat wordt het actualiseren van het RGBZ gestart. 
 
+# Documentatie
+
+De documentatie die bij de meest recente stand van zaken van dit project hoort is te vinden op https://vng-realisatie.github.io/RSGB-Respec/ 
+Deze documentatie wordt indien van toepassing telkens bijgewerkt naar aanleiding van verwerkte issues. 
+
 # Doelstelling actualiseren RSGB
 
 We willen het RSGB zodanig aanpassen dat het conform MIM 1.1 is opgesteld, dat het consistent is met de informatiemodellen van de gerelateerde domeinen (basisregistraties) en dat het toekomstige ontwikkelingen optimaal ondersteunt. Vertrekpunt hierbij is de laatst vastgestelde versie van het RSGB (2.02). Ook worden hierbij inzichten rond domeingrenzen die opgedaan zijn in het traject rond de API-Referentie Architectuur (ARA) meegewogen.  
