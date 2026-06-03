@@ -7,19 +7,21 @@ Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde inc
 1.	Todo
 2.	In discussie (voor komende sessie)
 3.	Consensus bereikt
-4.	Verwerk in RSGB
-5.	Review verwerking in RSGB
-6.	Done
+4.	Review verwerking in RSGB
+5.	Done
 
-Hier hoort het volgende proces bij.
+Hier hoort per issue het volgende proces bij waarbij het uitgangspunt is dat de issues in de onder handen milestone al in de 'Todo' kolom zijn geplaatst.
 
-<img width="900" alt="werkproces" src="https://github.com/user-attachments/assets/c7b8d205-5ef8-47de-ab48-ae02e922e21d" />
+<img width="900" alt="werkproces" src="werkproces-per-issue.jpg" />
 
-## Uitgebreide review
+De genoemde review vindt plaats op het Respec document. De werkwijze daarvan is beschreven in de volgende paragraaf.
 
-Het in de voorgaande paragraaf beschreven proces is op stap 4 na grotendeels gericht op enkelvoudige issues die in de onderliggende repository staan.
-De in die stap genoemde review betreft een review op een Respec document dat in [deze repository[(https://github.com/VNG-Realisatie/RSGB-Respec) wordt gegenereerd en waarin over het algemeen meerdere issues verwerkt zullen zijn. 
-In dat Respec document kunnen reviewopmerkingen worden geplaatst aan de hand waarvan bekeken zal worden of nieuwe issues noodzakelijk zijn of juist alleen een terugkoppeling aan de reviewer.
+Nadat alle issues die de basis vormen voor een nieuwe RSGB versie zo zijn verwerkt en gereviewed volgt er nog een algehele reviwe waarvoor dezelfde in de volgende paragraaf beschreven werkwijze wordt gebruikt.
+
+## Review
+
+Een review wordt uitgevoerd op een Respec document dat in [deze repository](https://github.com/VNG-Realisatie/RSGB-Respec) wordt gegenereerd en waarin over het algemeen meerdere issues verwerkt zullen zijn. 
+In dat Respec document kunnen review-opmerkingen worden geplaatst aan de hand waarvan bekeken zal worden of nieuwe issues noodzakelijk zijn of juist alleen een terugkoppeling aan de reviewer.
 Voor het kunnen plaatsen van reviewopmerkingen moet echter aan enkele voorwaarden worden voldaan.
 
 Van elk document dat we willen onderwerpen aan een uitgebreide review dient eerst een snapshot vervaardigd te worden. 
