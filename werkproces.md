@@ -12,7 +12,7 @@ Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde inc
 
 Hier hoort per issue het volgende proces bij waarbij het uitgangspunt is dat de issues in de onder handen milestone al in de 'Todo' kolom zijn geplaatst.
 
-<img width="900" alt="werkproces" src="werkproces-per-issue.jpg" />
+<img width="450" alt="werkproces per issue" src="werkproces-per-issue.jpg" />
 
 De genoemde review vindt plaats op het Respec document. De werkwijze daarvan is beschreven in de volgende paragraaf.
 
