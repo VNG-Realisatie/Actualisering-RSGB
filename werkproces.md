@@ -2,7 +2,7 @@
 
 ## Incrementeel creatieproces
 
-Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde incrementele creatieproces. Daarbij maken we gebruik van het daarvoor ingerichte [Kanban bord](https://github.com/orgs/VNG-Realisatie/projects/24) met de in de illustratie genoemde kolommen:
+Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde incrementele creatieproces dat wordt doorlopen met de Informatiemodellen werkgroep. Daarbij maken we gebruik van het daarvoor ingerichte [Kanban bord](https://github.com/orgs/VNG-Realisatie/projects/24) met de in de illustratie genoemde kolommen:
 
 1.	Todo
 2.	In discussie (voor komende sessie)
@@ -16,7 +16,8 @@ Hier hoort per issue het volgende proces bij waarbij het uitgangspunt is dat de 
 
 De genoemde review vindt plaats op het Respec document. De werkwijze daarvan is beschreven in de volgende paragraaf.
 
-Nadat alle issues die de basis vormen voor een nieuwe RSGB versie zo zijn verwerkt en gereviewed volgt er nog een algehele reviwe waarvoor dezelfde in de volgende paragraaf beschreven werkwijze wordt gebruikt.
+Nadat alle issues die de basis vormen voor een nieuwe RSGB versie zo zijn verwerkt en gereviewed volgt er nog een algehele review waarvoor dezelfde in de volgende paragraaf beschreven werkwijze wordt gebruikt.
+Deze algehele review wordt in de vorm van een openbare consultatie uitgezet naar de gehele Informatiemodellering community.
 
 ## Review
 
