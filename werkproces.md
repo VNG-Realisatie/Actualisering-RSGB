@@ -17,7 +17,7 @@ Hier hoort per issue het volgende proces bij waarbij het uitgangspunt is dat de 
 De genoemde review vindt plaats op het Respec document. De werkwijze daarvan is beschreven in de volgende paragraaf.
 
 Nadat alle issues die de basis vormen voor een nieuwe RSGB versie zo zijn verwerkt en gereviewed volgt er nog een algehele review waarvoor dezelfde in de volgende paragraaf beschreven werkwijze wordt gebruikt.
-Deze algehele review wordt in de vorm van een openbare consultatie uitgezet naar de gehele Informatiemodellering community.
+Deze algehele review wordt in de vorm van een openbare consultatie uitgezet naar de gehele Informatiemodellen community.
 
 ## Review
 
