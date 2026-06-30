@@ -1,6 +1,6 @@
 # Changelog
 
-| # Issue | Datum      | Wijziging    |
+| Issue | Datum      | Wijziging    |
 |---------|------------|--------------|
 | #63     | 2026-06-17 | Structuur van de BAG-identificatie aangepast zoals voorgesteld | 
 | #83     | 2026-06-17 | Naam van realatiesoort *heeft* (tussen **Ingezetene** en ** Verblijfstitel**) gewijzigd in *beschikt over* |
