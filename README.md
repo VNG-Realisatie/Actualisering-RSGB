@@ -96,8 +96,7 @@ De mate waarin deze versies dan worden geformaliseerd worden met de community en
 
 # Deelname
 
-Mocht u vanuit uw rol binnen een gemeente, samenwerkingsverband of leverancier reden zien om deel te nemen aan de community dan kunt u daarvoor contact opnemen met Ilias.Cheqri@VNG.NL
-
+Mocht u vanuit uw rol binnen een gemeente, samenwerkingsverband of leverancier reden zien om deel te nemen aan de community dan kunt u daarvoor contact opnemen met Ilias.Cheqri@VNG.NL. In [CONTRIBUTING.md](CONTRIBUTING.md) wordt nader beschreven op welke wijzen er bijdragen geleverd kunnen worden. 
 
 
 
