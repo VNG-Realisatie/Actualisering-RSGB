@@ -14,3 +14,6 @@ assignees: ''
 
 
 **Welke RSGB-componenten worden geraakt door dit issue:*
+
+- [ ] Aangebracht in UML-model in Enterpise Architect.
+- [ ] Gepubliceerd in Respec ter review
