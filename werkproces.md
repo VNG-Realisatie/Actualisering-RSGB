@@ -14,7 +14,7 @@ Hier hoort per issue het volgende proces bij waarbij het uitgangspunt is dat de 
 
 <img width="600" alt="werkproces per issue" src="werkproces-per-issue.jpg" />
 
-De genoemde review vindt plaats op het Respec document. De werkwijze daarvan is beschreven in de volgende paragraaf.
+De genoemde review vindt plaats op het Respec document. De werkwijze daarvan is beschreven in de volgende paragraaf.  Evt. kan ook het model in Enterprise Architect in de review worden meegenomen.
 
 Nadat alle issues die de basis vormen voor een nieuwe RSGB versie zo zijn verwerkt en gereviewed volgt er nog een algehele review waarvoor dezelfde in de volgende paragraaf beschreven werkwijze wordt gebruikt.
 Deze algehele review wordt in de vorm van een openbare consultatie uitgezet naar de gehele Informatiemodellen community.
