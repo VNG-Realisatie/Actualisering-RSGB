@@ -5,12 +5,12 @@
 Bij het actualiseren van  het RSGB hanteren we het hieronder geïllustreerde incrementele creatieproces dat wordt doorlopen met de Informatiemodellen werkgroep. Daarbij maken we gebruik van het daarvoor ingerichte [Kanban bord](https://github.com/orgs/VNG-Realisatie/projects/24) met de in de illustratie genoemde kolommen:
 
 1.	Todo
-2.	In discussie (voor komende sessie)
+2.	Bespreken met community
 3.	Consensus bereikt
 4.	Review verwerking in RSGB
 5.	Done
 
-Hier hoort per issue het volgende proces bij waarbij het uitgangspunt is dat de issues in de onder handen milestone al in de 'Todo' kolom zijn geplaatst.
+Hier hoort per issue het volgende proces bij.
 
 <img width="450" alt="werkproces per issue" src="werkproces-per-issue.jpg" />
 
